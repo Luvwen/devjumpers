@@ -1,0 +1,6 @@
+- git clone https://github.com/Luvwen/devjumpers.git
+- cd devjumpers
+- touch README.md
+- git add README.md
+- git commit -m "commit inicial"
+- git push -u origin main
