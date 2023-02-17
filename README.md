@@ -49,11 +49,12 @@
 
 ### Images
 
-![Git project](https://imgur.com/a/gEB8dLr)
-
-
-![Git collaborator](https://imgur.com/a/brBfW4t)
+![Git project](hhttps://i.imgur.com/Rxtq49z.png)
 
 
 ![Git list](https://i.imgur.com/7rV7bJm.png)
+
+
+![Git collaborator](https://i.imgur.com/OMp5Sui.png)
+
 
