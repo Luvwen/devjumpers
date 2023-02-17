@@ -30,6 +30,8 @@
 - git branch -d v0.2
 - git config --global alias.list 'log --oneline --decorate --graph --all'
 - git list
+- git add .
+- git commit -m "README update"
 
 
 | Nombre  | Github |
@@ -37,3 +39,10 @@
 | Aylen  | https://github.com/Loreaylen |
 | Simon  | https://github.com/SimonSantillan |
 | Valeria | https://github.com/valeriazacariasl |
+
+### Images
+
+![Git project](https://imgur.com/a/gEB8dLr)
+
+
+![Git collaborator](https://imgur.com/a/brBfW4t)
