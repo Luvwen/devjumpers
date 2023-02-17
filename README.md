@@ -32,6 +32,13 @@
 - git list
 - git add .
 - git commit -m "README update"
+- git push
+- git add .
+- git commit -m "README update"
+- git push
+- git add .
+- git commit -m "More images in README"
+- git push
 
 
 | Nombre  | Github |
@@ -46,3 +53,7 @@
 
 
 ![Git collaborator](https://imgur.com/a/brBfW4t)
+
+
+![Git list](https://i.imgur.com/7rV7bJm.png)
+
