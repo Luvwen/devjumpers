@@ -49,7 +49,7 @@
 
 ### Images
 
-![Git project](hhttps://i.imgur.com/Rxtq49z.png)
+![Git project](https://i.imgur.com/Rxtq49z.png)
 
 
 ![Git list](https://i.imgur.com/7rV7bJm.png)
